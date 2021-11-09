@@ -10,3 +10,7 @@ Senior Aviculturist Kim Fukuda says the team built on those bonds to get Rey use
 their vitamins. When that happens, she runs over there and waits for me." Rosa, our oldest sea otter, has very limited eyesight,
 among other health issues. The sea otter team had already trained Rosa so they could examine her eyes,
 and built on that trust to include administering the eye drops she needs."""
+
+
+sentence = 'Mr. Trump became president after winning the political election. Though he lost the support of some republican friends, Trump is friends with President Putin'
+sentence
